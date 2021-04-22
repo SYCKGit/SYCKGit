@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SYCKstudios, you can call me SYCK
 - 👀 I’m interested in coding ig lol
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on python projects maybe
+- 💞️ I can collaborate on python projects maybe
 - 📫 How to reach me - reddit - SYCKPlayz1
 
 <!---
