@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SYCKstudios, you can call me SYCK
+- 👋 Hi, I’m @SYCKGit, you can call me SYCK
 - 👀 I’m interested in coding ig lol
 - 🌱 I’m currently learning c++
 - 💞️ I can collaborate on python projects maybe
