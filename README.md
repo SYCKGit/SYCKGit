@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SYCKGit, you can call me SYCK
 - 👀 I’m interested in coding ig lol
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning kotlin
 - 💞️ I can collaborate on python projects maybe
 - 📫 How to reach me - reddit - SYCKPlayz1
 
