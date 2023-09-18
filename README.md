@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SYCKGit, you can call me SYCK
-- 🌱 I’m currently learning kotlin and C++
+- 🌱 I’m currently learning competitive programming
 - 📫 How to reach me - oviyangandhi@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SYCKGit&theme=radical)<br>
